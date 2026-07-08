@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Sadid Rahin Nohan</h1>
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer And AI Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadid-rahin&label=Profile%20views&color=0e75b6&style=flat" alt="sadid-rahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadid-rahin" alt="sadid-rahin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working as a intern at Omira [AI Developer](https://omiraholdings.com/)
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/sadid-rahin/building-management-client)
 
